@@ -33,7 +33,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_1318333_event_0_event</name>
         <next_element/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="event management">40a73ab3939502106ee930018bba1058</sys_scope>
         <sys_update_name>sys_dictionary_x_1318333_event_0_event_event_name</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-09 07:02:19</sys_updated_on>
+        <sys_updated_on>2024-04-09 07:37:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
